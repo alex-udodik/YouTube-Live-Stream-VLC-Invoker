@@ -1,0 +1,44 @@
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+mpeg4audio: AAC channels: 2 samplerate: 44100
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3080, vendor 10de(NVIDIA), device 2206, revision a1) for hardware decoding
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+mpeg4audio: AAC channels: 2 samplerate: 44100
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3080, vendor 10de(NVIDIA), device 2206, revision a1) for hardware decoding
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+mpeg4audio: AAC channels: 2 samplerate: 44100
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3080, vendor 10de(NVIDIA), device 2206, revision a1) for hardware decoding
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+mpeg4audio: AAC channels: 2 samplerate: 44100
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3080, vendor 10de(NVIDIA), device 2206, revision a1) for hardware decoding
+avcodec error: hardware acceleration picture allocation failed
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+mpeg4audio: AAC channels: 2 samplerate: 44100
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3080, vendor 10de(NVIDIA), device 2206, revision a1) for hardware decoding
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+mpeg4audio: AAC channels: 2 samplerate: 44100
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3080, vendor 10de(NVIDIA), device 2206, revision a1) for hardware decoding
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+mpeg4audio: AAC channels: 2 samplerate: 44100
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3080, vendor 10de(NVIDIA), device 2206, revision a1) for hardware decoding
+avcodec error: hardware acceleration picture allocation failed
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --

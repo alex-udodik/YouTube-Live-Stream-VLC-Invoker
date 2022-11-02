@@ -1,3 +1,3 @@
-echo Starting program
+echo Starting Python program
 python main.py
 pause
